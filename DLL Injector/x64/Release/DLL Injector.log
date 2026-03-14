@@ -1,0 +1,6 @@
+﻿  DLL_Injector.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 41 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLL Injector.vcxproj -> C:\Users\famil\Desktop\misaki gmod\injector\Source\x64\Release\injector.exe
